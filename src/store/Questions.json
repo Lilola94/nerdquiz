@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "Science Fiction": [
+        "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diaLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dia",
+        "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+        "ScQuestion3",
+        "ScQuestion4",
+        "ScQuestion5"
+      ],
+      "Geschichte": [
+        "HQuestion1",
+        "HQuestion2",
+        "HQuestion3",
+        "HQuestion4",
+        "HQuestion5"
+      ],
+      "Naturwissenschaft": [
+        "Question1",
+        "Question2",
+        "Question3",
+        "Question4",
+        "Question5"
+      ],
+      "Politik": [
+        "Question1",
+        "Question2",
+        "Question3",
+        "Question4",
+        "Question5"
+      ],
+      "Beispiel": [
+        "Question1",
+        "Question2",
+        "Question3",
+        "Question4",
+        "Question5"
+      ]
+    }
+  ]
+}
